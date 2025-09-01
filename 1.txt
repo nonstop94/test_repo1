@@ -3,3 +3,4 @@ some text
 12354
 
 test2
+info about teste case2
